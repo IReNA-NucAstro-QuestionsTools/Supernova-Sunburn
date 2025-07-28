@@ -55,7 +55,7 @@ if __name__ == "__main__":
     print(f" Ye: 0.80")
     print(f"First Ye: {first_ye80:.4f}")
     print(f"Last Ye:  {last_ye80:.4f}")
-CCSN_winds_Ye_65_F3
+
 if __name__ == "__main__":
     filepath = "../CCSN_winds_Ye_7_F3/mainout.dat"
     first_ye7, last_ye7 = extract_first_last_ye(filepath)
